@@ -1,4 +1,4 @@
-<p align="center"> # Hi 👋, I'm Gökhan Emre Kasapoğlu
+<p align="center"> # Hi 👋, I'm Gökhan Emre Kasapoğlu <br>
 ##A passionate frontend and mobile app developer from Turkey.
 </p>
 
