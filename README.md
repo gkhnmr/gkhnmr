@@ -1,9 +1,12 @@
-# Hi 👋, I'm Gökhan Emre Kasapoğlu
+<p align="center"> # Hi 👋, I'm Gökhan Emre Kasapoğlu
 ##A passionate frontend and mobile app developer from Turkey.
+</p>
 
+<p align="center">
 ### Connect with me:
 <a href="https://twitter.com/gkhnmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gkhnmr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gkhnmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gkhnmr" height="30" width="40" /></a>
+</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <h3 align="center">Languages and Tools:</h3>
